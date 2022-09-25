@@ -1,0 +1,12 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="프로젝트 'trainModel.py'" />
+    <option name="defaultScopeName" value="프로젝트 'trainModel.py'" />
+    <option name="SEARCH_SCOPE" value="프로젝트 'trainModel.py'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
